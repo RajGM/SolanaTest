@@ -1,0 +1,22 @@
+{
+  "name": "solanatest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajGM/SolanaTest.git"
+  },
+  "author": "RajGM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajGM/SolanaTest/issues"
+  },
+  "homepage": "https://github.com/RajGM/SolanaTest#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.54.0"
+  }
+}
